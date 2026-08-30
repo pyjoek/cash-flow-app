@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:cashflowapp/pages/Dashboard.dart';
+import 'package:cashflowapp/pages/Account.dart';
+import 'package:cashflowapp/pages/Transaction.dart';
 
 void main() => runApp(const MyApp());
 
