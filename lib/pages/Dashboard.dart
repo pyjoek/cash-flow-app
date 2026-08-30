@@ -6,7 +6,7 @@ class Dashboard extends StatelessWidget {
     return Column(
       children: [
         Center(
-          child: Text("DAshboard"),
+          child: Text("Dashboard"),
         )
       ],
     );
