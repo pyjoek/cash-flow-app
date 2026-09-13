@@ -1,6 +1,6 @@
-# cashflowapp
+# flowpilot
 
-Mobile app aside with the flow pilot website.
+A new Flutter project.
 
 ## Getting Started
 

@@ -1,11 +1,11 @@
 {
-    "name": "cashflowapp",
-    "short_name": "cashflowapp",
+    "name": "flowpilot",
+    "short_name": "flowpilot",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Mobile app aside with the flow pilot website.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
